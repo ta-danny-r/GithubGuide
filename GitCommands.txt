@@ -62,3 +62,8 @@ Steps to push files to Github
 
 
 
+If you would like to know more about Git 
+type 
+git --help
+
+
