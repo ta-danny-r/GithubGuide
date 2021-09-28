@@ -1,0 +1,64 @@
+A few tips on Git Commands
+
+
+	Branch
+
+Creating new branch
+	git checkout -b <new-branch>
+	***** <new-branch> will be your branch name *****
+
+Deleting a branch
+	git checkout -d <branch>
+	***** <branch> will be your branch name *****
+
+Current branch
+	git branch
+	***** Will show you which branch you are currently in *****
+
+	
+	Add
+
+Adding files to GitHub
+	git add .
+	***** "." means add ALL the files to GitHub *****
+	
+	git add <file-name>
+	***** <file-name> adds a specific file ONLY to Github *****	
+
+
+
+	Commit
+
+Creating a commit
+	git commit -m "Message goes here"
+	***** -m stands for message *****
+	***** "commit" captures a snapshot of the changes to your project. *****
+
+
+
+	Push
+
+Creating a push
+	git push 
+	***** Push files to Github *****
+
+
+	Checkout 
+
+Using checkout
+	git checkout <branch-name>
+	***** <branch-name> is the branch name you are moving to *****
+	***** checkout is used to change branch *****
+
+
+
+
+
+
+Steps to push files to Github
+	1. git add .   OR  git add <file-name>
+	2. git commit -m "Message"
+	3. git push
+
+
+
