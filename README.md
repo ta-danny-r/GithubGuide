@@ -1,14 +1,14 @@
 # GithubGuide
 
-<h2> <i> GitCommands.txt </i> contains a file that explains the Git commands to use on the command line / terminal. </h2>
+<p> <i> GitCommands.txt </i> contains a file that explains the Git commands to use on the command line / terminal. </p>
 
-<h2>  A few tips </h2>
-<h2>  Before pushing files on Github. 
+<p>  A few tips </p>
+<p>  Before pushing files on Github. 
       Please make sure that your are on the current directory of your project in the command line / terminal.
       You can navigate to your current project on the command line / terminal using <b> cd </b>
-</h2>
+<p>
 
-<h2>
+<p>
   Here is an example
   If my project is in <b> Desktop </b> inside a folder called <b> Code </b>
   
@@ -21,4 +21,4 @@
   <b> git add . </b>
   <b> git commit -m "Enter your message here" </b>
   <b> git push </b>
-</h2>
+</p>
