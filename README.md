@@ -9,16 +9,16 @@
 <p>
 
 <p>
-  Here is an example
-  If my project is in <b> Desktop </b> inside a folder called <b> Code </b>
+  Here is an example <br>
+      If my project is in <b> <i> Desktop </i> </b> inside a folder called <b> </i> Code  </i> </b>
   
-  I will type this in my command line / terminal
+  I will type this in my command line / terminal <br>
   
-  <b> cd Desktop </b>
-  After I will type
-  <b> cd Code  </b>
-  Now I can use git commands. Like this.
-  <b> git add . </b>
-  <b> git commit -m "Enter your message here" </b>
-  <b> git push </b>
+  <b> cd Desktop </b> <br>
+  After I will type <br>
+  <b> cd Code  </b> <br>
+  Now I can use git commands. Like this. <br>
+  <b> git add . </b> <br>
+  <b> git commit -m "Enter your message here" </b> <br>
+  <b> git push </b> <br>
 </p>
